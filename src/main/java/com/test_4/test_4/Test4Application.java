@@ -6,6 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class Test4Application {
 
+int i = 3483;
+
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
 	}
