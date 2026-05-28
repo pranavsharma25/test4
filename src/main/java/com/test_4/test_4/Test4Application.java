@@ -9,6 +9,8 @@ public class Test4Application {
         int i = 3483;
 	int j = 5647;
         int l = 200;
+	int k = 500;
+
 
 	public static void main(String[] args) {
 		SpringApplication.run(Test4Application.class, args);
