@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class Test4Application {
 
 	public static void main(String[] args) {
+		int i = 20;
 		int k = 90;
 		SpringApplication.run(Test4Application.class, args);
 	}
